@@ -1,1 +1,1 @@
-print("kam ka app")
+print("kaam ka app")
